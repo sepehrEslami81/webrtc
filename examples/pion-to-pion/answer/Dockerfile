@@ -3,7 +3,7 @@
 
 FROM golang:1.23
 
-RUN go install github.com/pion/webrtc/v4/examples/pion-to-pion/answer@latest
+RUN go install github.com/sepehrEslami81/webrtc/v4/examples/pion-to-pion/answer@latest
 
 CMD ["answer"]
 

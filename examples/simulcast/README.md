@@ -8,7 +8,7 @@ is selected.
 ## Instructions
 ### Download simulcast
 ```
-go install github.com/pion/webrtc/v4/examples/simulcast@latest
+go install github.com/sepehrEslami81/webrtc/v4/examples/simulcast@latest
 ```
 
 ### Open simulcast example page
